@@ -1,0 +1,28 @@
+body {
+	background-color: #ffb3da;
+}
+
+h1 {
+  color:  #ff80c1;
+	font-weight: bold;
+	font-family: arial;
+
+}
+
+p {
+	font-family: arial;
+	text-align: justify;
+}
+
+div {
+  width: 800px;
+  border: 15px solid;
+  border-color: #ff1a8c;
+  padding: 20px;
+  box-shadow: 10px 10px 5px gray;
+  background-color: white;
+}
+
+.center {
+  margin: auto;
+}

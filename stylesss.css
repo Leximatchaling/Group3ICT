@@ -1,0 +1,37 @@
+
+body {
+	background-color: #ffb3da;
+}
+
+h1 {
+  color:  #ff1a8c;
+	font-weight: bold;
+	font-family: arial;
+}
+
+p {
+  color:  #ff1a8c;
+	font-weight: bold;
+	font-family: arial;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #ff99ce;
+}
+
+li a {
+  display:block;
+  color: #ff1a8c;
+  padding: 8px 8px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #ff4da6;
+  color: #ff99ce
+}
+

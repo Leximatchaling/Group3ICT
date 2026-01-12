@@ -1,0 +1,32 @@
+body {
+	background-color: #ffb3da;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	background-color:#ff1a8c;
+	width: 100%;
+
+}
+
+tr, td {
+	background-color:#ff99ce;
+	font-family: Arial;
+	color:#ff1a8c;
+	text-align: center;
+		border-spacing: 10px;
+	padding:10px;
+}
+
+td a:hover {
+	background-color: #ff4da6;
+	color: white
+}
+
+a {
+	 text-decoration: none;
+	 color:white;
+}
+
+	
